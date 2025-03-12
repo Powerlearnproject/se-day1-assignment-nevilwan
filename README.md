@@ -82,7 +82,7 @@ An **integrated development environment (IDE)** is a software platform that faci
 - **Software Accessibility and Usability** - Overly complex software can frustrate or confuse users. 
 **Solution:** Use scalable architecture, Emphasize reliability.
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+## Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 **Unit tests** - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
 **Integration tests** - verify that different modules or services used by your application work well together.
 - help to ensure data flows smoothly between modules and interfaces work as expected.
@@ -101,7 +101,7 @@ Importance:
 **Increased flexibility** - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
 **developer control** - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+## Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Draw a picture of a person
 Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
 **Clarity**: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
